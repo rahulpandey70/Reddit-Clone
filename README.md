@@ -3,7 +3,7 @@
 ## Languages/Tools
 
 <a href="https://discord.gg/EHthxHRUmr">
-    <img src="https://skillicons.dev/icons?i=next,js,react,typescript,postgresql" />
+    <img src="https://skillicons.dev/icons?i=next,js,react,typescript,mysql,redis" />
   </a>
 
 <a name="want-to-contribute"></a>
